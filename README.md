@@ -38,7 +38,9 @@ This project involves building a Security Information and Event Management (SIEM
 ---
 
 ### 1. Nmap Scan Detection Alert Rule
-![Screenshot 2024-11-03 145933](https://github.com/user-attachments/assets/b7fd5bcd-9474-4b3c-a05c-3694381a462e)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b7fd5bcd-9474-4b3c-a05c-3694381a462e" alt="Nmap Scan Detection">
+</div>
 
 *Custom alert rule set up to detect and log Nmap scanning activity, helping track reconnaissance actions in the network.*
 
@@ -47,7 +49,9 @@ This project involves building a Security Information and Event Management (SIEM
 ---
 
 ### 2. Event Monitoring During Penetration Testing
-![Screenshot 2024-11-03 145328](https://github.com/user-attachments/assets/d64e5bdf-a090-4900-b308-378a441af683)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d64e5bdf-a090-4900-b308-378a441af683" alt="Event Monitoring">
+</div>
 
 *Real-time event graph showing spikes in network activity during Nmap scans on the Kali VM.*
 
@@ -56,7 +60,9 @@ This project involves building a Security Information and Event Management (SIEM
 ---
 
 ### 3. Attack Simulation Using Hydra for SSH Brute-Force Detection
-![Screenshot 2024-11-03 153430](https://github.com/user-attachments/assets/319ac522-55fa-41b3-bfbe-7577220ab22f)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/319ac522-55fa-41b3-bfbe-7577220ab22f" alt="Hydra SSH Attack">
+</div>
 
 *SSH brute-force attack simulation using Hydra, detected and logged by the SIEM system.*
 
@@ -65,7 +71,9 @@ This project involves building a Security Information and Event Management (SIEM
 ---
 
 ### 4. Email Alert Notification for SSH Brute-Force Attack
-![Screenshot 2024-11-03 154559](https://github.com/user-attachments/assets/a7e3b0f4-a2e9-4e4c-94d2-8c737fcebdd1)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a7e3b0f4-a2e9-4e4c-94d2-8c737fcebdd1" alt="Email Alert Notification">
+</div>
 
 *Automated email notification received upon detecting an SSH brute-force attack, alerting security personnel in real time.*
 
